@@ -1,0 +1,13 @@
+html {
+    background-color: #ebebeb
+}
+
+body {
+    margin: 0;
+    padding:0;
+}
+
+#redbox {
+    background-color: rgb(224, 46, 61)
+    
+}
